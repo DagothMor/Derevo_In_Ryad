@@ -1,3 +1,16 @@
+# Derevo - three in a row game
+
+«Три в ряд» — консольная игра на поле 8×8 с элементами пяти типов. Игрок меняет местами соседние элементы, собирая линии из трёх и более одинаковых. Собранные элементы исчезают, приносят очки, а поле заполняется новыми. Цель — набрать как можно больше очков. Игра заканчивается, когда не остаётся доступных ходов.
+
+___
+
+Match-3 is a console game played on an 8×8 board with five types of tiles. Swap adjacent tiles to form lines of three or more matching tiles. Matches disappear, award points, and are replaced by new tiles. The goal is to score as many points as possible before no valid moves remain.
+
+## Скриншоты
+
+![1](1.png)
+![2](2.png)
+
 # Сборка и запуск derevo
 
 ## Программные требования
